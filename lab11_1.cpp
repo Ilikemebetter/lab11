@@ -15,7 +15,7 @@ int main()
     string ans;
     if (x == 0) ans = "A";
     else if (x == 1) ans = "B+";
-    else if (x == 2) ans ="B";
+    else if (x == 2) ans = "B";
     else if (x == 3) ans = "C+";
     else if (x == 4) ans = "C";
     else if (x == 5) ans = "D+";
@@ -29,4 +29,3 @@ int main()
 
 }
 
-// cout << "You will get A in this 261102.";
